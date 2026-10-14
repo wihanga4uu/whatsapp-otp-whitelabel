@@ -1,0 +1,3 @@
+WhatsApp OTP White-Label Platform
+Version: 2.4.0 GitHub Ready
+Includes: OTP, messaging, admin panel, editable branding/templates, auto reconnect

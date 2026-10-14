@@ -1,0 +1,20 @@
+{
+  "businessName": "SOUTHLAND INTERNATIONAL COLLEGE NETWORK",
+  "adminPanelTitle": "Southland WhatsApp Admin",
+  "brandTagline": "Official Verification & Notification Service",
+  "website": "https://southlandinternationalcollege.com",
+  "supportContact": "",
+  "otpTemplate": "*{{BUSINESS_NAME}}*\n\nYour verification code is: *{{OTP}}*\n\nThis code expires in {{MINUTES}} minutes.\nPlease do not share this code with anyone.{{WEBSITE_LINE}}{{SUPPORT_LINE}}",
+  "templates": [
+    {
+      "id": "registration-success",
+      "name": "Registration Success",
+      "content": "*{{BUSINESS_NAME}}*\n\nHello {{NAME}},\n\nYour registration has been completed successfully."
+    },
+    {
+      "id": "account-approved",
+      "name": "Account Approved",
+      "content": "*{{BUSINESS_NAME}}*\n\nHello {{NAME}},\n\nYour account has been approved successfully."
+    }
+  ]
+}
